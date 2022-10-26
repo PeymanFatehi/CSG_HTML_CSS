@@ -1,0 +1,32 @@
+body {
+    background-color: yellow;
+}
+
+.myDiv1 {
+    border: 5px outset green;
+    background-color: white;
+    width: 5000px;
+    height: 1px;
+    margin: 10px;
+    padding: 100px;
+  }
+
+.myDiv2 {
+    border: 5px outset green;
+    background-color: white;
+    width: 300px;
+    margin: 100px;
+    padding: 100px;
+  }
+
+* {
+    display: flex
+}
+
+  .myDiv3 {
+    border: 5px outset green;
+    background-color: white;
+    width: 300px;
+    margin: 100px;
+    padding: 100px;
+  }
