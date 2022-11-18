@@ -1,0 +1,318 @@
+.ul1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:  #333;
+  }
+  
+  #li1 {
+    float: left;
+  }
+  
+  #li1 a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Verandert de link kleur kleur naar zwart*/
+
+  body {
+    background-color: burlywood;
+    
+  } 
+
+#backgroundimage {
+  background-image: url(/PO/images/mooi.jpg);
+  background-size: cover; 
+}
+
+  @font-face {
+    font-family: 'endor';
+    src: url('ENDORALT.ttf') format('truetype');
+    font-weight: bold;
+  }
+
+  h1 {
+    font-family: 'endor', courier;
+    color: palegreen;
+    text-align: center;
+  }
+
+  h2 {
+    color: #FFFDD0;
+  }
+
+  .div1 {
+    background-color: #745136;
+    height: 300px;
+    width: 500px;
+    border: 5px solid  #F8CE7F;
+    float: left;
+    margin: 20px; 
+    padding: 10px;
+    margin-right: 290px;
+  }
+
+  .div2 {
+    background-color:  #694429;
+    height: 300px;
+    width: 500px;
+    border: 5px solid  #F8DE7E;
+    float: left;
+    margin: 20px; 
+    padding: 10px;
+    margin-right: 290px;
+  }
+
+  
+  #p1 {
+    color: white;
+    font-size: large;
+  }
+  img {
+    border-radius: 50%;
+    padding: 110px;
+    width: 380px;
+  }
+ 
+  p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    }
+ 
+    .first-container {
+      width: 1850px;
+      height: 100px;
+      background: #3C1900;
+    }
+
+
+    .container {
+      background-color: #F9E076;
+      width: 1400px;
+      padding: 10px;
+      margin: 15px auto;
+      text-align: justify;
+      display: flex;
+      border: 3px #CCC;
+  }
+  
+  .box {
+      background-color: #C37E4C;
+      margin: 10px;
+      /* met de klok mee van boven naar rechts naar onder naar links */
+      padding: 20px 10px 10px 10px;
+      border: 1px solid #999;
+  }
+  
+  .onder {
+      font-weight: 600;
+      border: 1px solid #999;
+      border-radius: 20px;
+      background-color: transparent;
+      color: #333;
+  }
+  
+  .onder .box {
+      background-color: transparent;
+      border: none;
+  }
+  
+  .onder .box:hover {
+      background-color: whitesmoke;
+      border: 1px solid red;
+      margin: 9px;
+  }
+  
+  h1,p {
+      margin: 0px;
+  }
+  
+  .onder h1 {
+      font-variant: small-caps;
+      letter-spacing: .15em;
+      text-align: center;
+  }
+
+
+h3 {
+  color: white;
+}
+ 
+.div3 {
+  float: left;
+  background-color: darkred;
+  margin: 10px;
+  padding: 1px 20px 10px 20px;
+  border: 5px solid  #F8DE7E;
+}
+
+h4 {
+  color: greenyellow;
+  font-size: x-large; 
+}
+
+.p4 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: large;
+  padding-bottom: 20px;
+}
+
+.p5 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: large;
+  padding-bottom: 20px;
+}
+
+.div6 {
+  background-color: darkred;
+  height: 300px;
+  width: 500px;
+  border: 5px solid  #F8DE7E;
+  float: left;
+  margin: 20px; 
+  padding: 10px;
+  margin-right: 290px;
+}
+
+h7 {
+color: greenyellow;
+font-size: x-large;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#backgroundimage2 {
+  background-image: url(/PO/images/zoetig.jpg);
+  background-size: cover; 
+}
+
+#backgroundimage3 {
+  background-image: url(/PO/images/test1.jpg);
+  background-size: cover; 
+}
+
+.div8 {
+  background-color: #745136;
+  height: 400px;
+  width: 400px;
+  border: px solid  black;
+  margin: 0 auto;
+  padding: 10px;
+  float: left;
+}
+ 
+.div5 {
+  background-color: burlywood;
+  height: 300px;
+  width: 500px;
+  border: 10px solid  #745136;
+  margin: 3px;
+  padding: 10px;
+}
+
+h9 {
+  color: darkred;
+  font-size: xx-large;
+}
+
+.div10 {
+  float: left;
+  background-color:rgb(45, 189, 255);
+  margin: 5px;
+  margin-top: 5px;
+  padding: 20px 100px 50px 900px;
+  border: 1px solid rgb(20, 18, 18);
+}
+
+
+.div11 {
+  background-color: burlywood;
+  height: 420px;
+  width: 500px;
+  border: 10px solid  #745136;
+  margin: 100px;
+  padding: 15px;
+  margin-top: -23%;
+  margin-right: 10%;
+  float: right;
+}
+
+h10 {
+  color: darkred;
+  font-size: xx-large;
+}
+
+#backgroundimage4 {
+  background-image: url(/PO/images/test2.jpg);
+  background-size: cover; 
+}
+
+.li2 {
+  color: white;
+  font-size: large;
+}
+
+.div12 {
+  float: right;
+  background-color: #745136;
+  margin: 20px;
+  margin-top: 0px;
+  width: 500px;
+  height: 500px;
+  border: 1px solid rgb(20, 18, 18);
+}
+
+h13 {
+  color: #FFFDD0;
+  margin: 20px;
+  font-size: xx-large;
+}
+
+.p11 {
+  color: white;
+  text-align: left;
+}
+
+.div14 {
+  background-color: burlywood;
+  height: 200px;
+  width: 1400px;
+  border: 10px solid  #745136;
+  margin: 10px;
+  padding: 20px 10px 0px; 
+  margin-top: -1%;
+  float: left;
+}
+
+.p13 {
+  color: darkred;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.li4 {
+  color: black;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h15 {
+color: #FFFDD0;
+font-size: x-large;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p14 {
+  color: black;
+}
+
+h20 {
+  color: palegreen;
+  font-size: xx-large;
+}
+
+.li5 {
+  color: white;
+}
